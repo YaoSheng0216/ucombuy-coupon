@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98dd3e13-ec9f-4fbc-957e-6fee78aefea8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-eureka/coupon-eureka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-eureka/src/main/java/com/ucombuy/eureka/EurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-eureka/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-eureka/target/classes/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-getaway/coupon-getaway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-getaway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-getaway/src/main/java/com/ucombuy/coupon/ZuulGetawayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-getaway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-getaway/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/coupon-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/advice/CommonResponseDataAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/advice/GlobalExceptionAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/annotation/IgnoreResponseAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/conf/JacksonConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/conf/WebConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/constant/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/constant/CouponCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/constant/DistributeTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/constant/GoodsType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/constant/PeriodType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/constant/ProductLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/exception/CouponException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/vo/CommonResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/vo/CouponTemplateSDK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/vo/GoodsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/vo/SettlementInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/src/main/java/com/ucombuy/coupon/vo/TemplateRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/META-INF/coupon-common.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/advice/CommonResponseDataAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/advice/GlobalExceptionAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/annotation/IgnoreResponseAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/conf/JacksonConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/conf/WebConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/constant/Constant$RedisPrefix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/constant/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/constant/CouponCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/constant/DistributeTarget.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/constant/GoodsType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/constant/PeriodType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/constant/ProductLine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/exception/CouponException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/vo/CommonResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/vo/CouponTemplateSDK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/vo/GoodsInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/vo/SettlementInfo$CouponAndTemplateInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/vo/SettlementInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/vo/TemplateRule$Discount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/vo/TemplateRule$Exception.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/vo/TemplateRule$Usage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-common/target/classes/com/ucombuy/coupon/vo/TemplateRule.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/DistributionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/constant/CouponStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/controller/RibbonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/controller/UserServiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/converter/CouponStatusConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/dao/CouponDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/entity/Coupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/feign/Settlementclient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/feign/TemplateClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/feign/hystrix/SettlementClientHystrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/feign/hystrix/TemplateClientHystrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/serialization/CouponSerialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/service/IKafkaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/service/IRedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/service/impl/KafkaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/service/impl/RedisServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/vo/AcquireTemplateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/vo/CouponClassify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/java/com/ucombuy/coupon/vo/CouponKafkaMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/main/resources/sql/create_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/test/java/com/ucombuy/coupon/DistributionApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/src/test/java/com/ucombuy/coupon/service/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-distribution/target/classes/sql/create_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/SettlementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/constant/RuleFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/controller/SettlementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/executor/AbstractExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/executor/ExecutorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/executor/RuleExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/executor/impl/LiJianExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/executor/impl/ManJianExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/executor/impl/ManJianZheKouExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/java/com/ucombuy/coupon/executor/impl/ZheKouExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/test/java/com/ucombuy/coupon/SettlementApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/src/test/java/com/ucombuy/coupon/service/ExecutorManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-settlement/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/TemplateApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/config/AsyncPoolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/controller/CouponTemplateController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/controller/HealthCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/converter/CouponCategoryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/converter/DistributeTargetConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/converter/ProductLineConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/converter/RuleConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/dao/CouponTemplateDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/entity/CouponTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/schedule/ScheduledTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/serialization/CouponTemplateSerialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/service/IAsyncService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/service/IBuildTemplateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/service/ITemplateBaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/service/impl/AsyncServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/service/impl/BuildTemplateServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/service/impl/TemplateServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/java/com/ucombuy/coupon/vo/TemplateRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/resources/sql/create_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/main/resources/sql/create_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/test/java/com/ucombuy/coupon/TemplateApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/test/java/com/ucombuy/coupon/service/BuildTemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/src/test/java/com/ucombuy/coupon/service/TemplateBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/target/classes/sql/create_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/coupon-template/target/classes/sql/create_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ucombuy-coupon-service/pom.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/Downloads/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VeNGEm8VRHmxF9Pcwpb0xdvmVL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ucombuy.coupon.advice" />
+      <recent name="com.ucombuy.coupon.entity" />
+      <recent name="com.ucombuy.coupon" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TemplateApplication">
+    <configuration name="BuildTemplateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucombuy.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ucombuy.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ucombuy.coupon.service.BuildTemplateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributionApplicationTest.contextLoad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-distribution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucombuy.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ucombuy.coupon" />
+      <option name="MAIN_CLASS_NAME" value="com.ucombuy.coupon.DistributionApplicationTest" />
+      <option name="METHOD_NAME" value="contextLoad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettlementApplicationTests.contextLoad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-settlement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucombuy.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ucombuy.coupon" />
+      <option name="MAIN_CLASS_NAME" value="com.ucombuy.coupon.SettlementApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateApplicationTests.contextLoad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucombuy.coupon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ucombuy.coupon" />
+      <option name="MAIN_CLASS_NAME" value="com.ucombuy.coupon.TemplateApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateBaseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coupon-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ucombuy.coupon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ucombuy.coupon.service" />
+      <option name="MAIN_CLASS_NAME" value="com.ucombuy.coupon.service.TemplateBaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-distribution" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ucombuy.coupon.DistributionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ucombuy.coupon.TemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SettlementApplicationTests.contextLoad" />
+        <item itemvalue="JUnit.DistributionApplicationTest.contextLoad" />
+        <item itemvalue="JUnit.TemplateBaseTest" />
+        <item itemvalue="JUnit.BuildTemplateTest" />
+        <item itemvalue="JUnit.TemplateApplicationTests.contextLoad" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98dd3e13-ec9f-4fbc-957e-6fee78aefea8" name="Default Changelist" comment="" />
+      <created>1577609502065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577609502065</updated>
+      <workItem from="1577609503312" duration="15662000" />
+      <workItem from="1577629479636" duration="501000" />
+      <workItem from="1577630075957" duration="1023000" />
+      <workItem from="1577631336375" duration="2334000" />
+      <workItem from="1577709793512" duration="38676000" />
+      <workItem from="1578130437154" duration="522000" />
+      <workItem from="1578405090654" duration="8196000" />
+      <workItem from="1578746979699" duration="28195000" />
+      <workItem from="1579493191554" duration="49444000" />
+      <workItem from="1580631840995" duration="1097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
